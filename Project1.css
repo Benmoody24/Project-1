@@ -1,0 +1,16 @@
+body {
+    background-color: lightcoral;
+}
+
+.p1 {
+    font-family: "Times New Roman", Times, serif;
+  }
+  .p2 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .picture{
+    width:500px; height:600px;
+  }
+  .picture2{
+    width:600px; height:500px;
+  }
