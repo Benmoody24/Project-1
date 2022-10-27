@@ -14,3 +14,13 @@ body {
   .picture2{
     width:600px; height:500px;
   }
+  h1 {
+    color: white;
+  }
+
+  ul {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
